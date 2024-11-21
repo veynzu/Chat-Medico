@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Usuarios>
+                                        
+    
+    
+    
+    
+    
+    
+    
+    
+    <Usuario tipo="Medico">
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Nombre>Dr. Juan Perez</Nombre>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Identificacion>medico123</Identificacion>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Contrasenia>contrasenia123</Contrasenia>
+                                                                            
+    
+    
+    
+    
+    
+    
+    
+    
+    </Usuario>
+                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    <Usuario tipo="Paciente">
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <Nombre>Andres Ruiz</Nombre>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <Identificacion>123</Identificacion>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <Contrasenia>123</Contrasenia>
+                                                                    
+    
+    
+    
+    
+    
+    
+    
+    </Usuario>
+                                
+    
+    
+    
+    
+    
+    
+    
+    <Usuario tipo="Paciente">
+                                                                
+        
+        
+        
+        
+        
+        
+        <Nombre>Ivan Lopez</Nombre>
+                                                                
+        
+        
+        
+        
+        
+        
+        <Identificacion>1234</Identificacion>
+                                                                
+        
+        
+        
+        
+        
+        
+        <Contrasenia>1234</Contrasenia>
+                                                            
+    
+    
+    
+    
+    
+    
+    </Usuario>
+                            
+    
+    
+    
+    
+    
+    
+    <Usuario tipo="Paciente">
+                                                        
+        
+        
+        
+        
+        
+        <Nombre>Jorge Mora</Nombre>
+                                                        
+        
+        
+        
+        
+        
+        <Identificacion>321</Identificacion>
+                                                        
+        
+        
+        
+        
+        
+        <Contrasenia>321</Contrasenia>
+                                                    
+    
+    
+    
+    
+    
+    </Usuario>
+                        
+    
+    
+    
+    
+    
+    <Usuario tipo="Paciente">
+                                                
+        
+        
+        
+        
+        <Nombre>Juan</Nombre>
+                                                
+        
+        
+        
+        
+        <Identificacion>456</Identificacion>
+                                                
+        
+        
+        
+        
+        <Contrasenia>456</Contrasenia>
+                                            
+    
+    
+    
+    
+    </Usuario>
+                    
+    
+    
+    
+    
+    <Usuario tipo="Paciente">
+                                        
+        
+        
+        
+        <Nombre>claudia</Nombre>
+                                        
+        
+        
+        
+        <Identificacion>125478</Identificacion>
+                                        
+        
+        
+        
+        <Contrasenia>125485</Contrasenia>
+                                    
+    
+    
+    
+    </Usuario>
+                
+    
+    
+    
+    <Usuario tipo="Paciente">
+                                
+        
+        
+        <Nombre>juana</Nombre>
+                                
+        
+        
+        <Identificacion>8496513</Identificacion>
+                                
+        
+        
+        <Contrasenia>846513</Contrasenia>
+                            
+    
+    
+    </Usuario>
+            
+    
+    
+    <Usuario tipo="Paciente">
+                        
+        
+        <Nombre>carlos suarez</Nombre>
+                        
+        
+        <Identificacion>784512</Identificacion>
+                        
+        
+        <Contrasenia>784512</Contrasenia>
+                    
+    
+    </Usuario>
+        
+    
+    <Usuario tipo="Paciente">
+                
+        <Nombre>pepe</Nombre>
+                
+        <Identificacion>194962360</Identificacion>
+                
+        <Contrasenia>12345</Contrasenia>
+            
+    </Usuario>
+    
+    <Usuario tipo="Paciente">
+        <Nombre>juana de aco</Nombre>
+        <Identificacion>12345</Identificacion>
+        <Contrasenia>12345</Contrasenia>
+    </Usuario>
+</Usuarios>

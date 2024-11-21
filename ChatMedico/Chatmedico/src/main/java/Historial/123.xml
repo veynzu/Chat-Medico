@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<HistorialMedico>
+            
+    
+    <Consulta>
+                        
+        
+        <Fecha>2024-11-20 17:39:01</Fecha>
+                        
+        
+        <Descripcion>tengo fiebre</Descripcion>
+                        
+        
+        <NotasMedicas>el paciente esta programando mucho</NotasMedicas>
+                    
+    
+    </Consulta>
+        
+    
+    <Consulta>
+                
+        <Fecha>2024-11-20 17:40:24</Fecha>
+                
+        <Descripcion>tengo colicos</Descripcion>
+                
+        <NotasMedicas>esta comiendo mucha pizza</NotasMedicas>
+            
+    </Consulta>
+    
+    <Consulta>
+        <Fecha>2024-11-20 17:40:29</Fecha>
+        <Descripcion>colicos</Descripcion>
+        <NotasMedicas>sigue comiendo pizza</NotasMedicas>
+    </Consulta>
+</HistorialMedico>
